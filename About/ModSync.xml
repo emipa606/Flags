@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>2cd80ddd-e4f9-4415-86c1-8dca3a60ba2d</ID>
   <ModName>Flags (Continued)</ModName>
-  <Version>1.0.1.0</Version>
+  <Version>1.0.2.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,6 +12,7 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
+
 
 
 
