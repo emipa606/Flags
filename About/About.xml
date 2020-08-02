@@ -1,15 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Flags (Continued)</name>
-  	<packageId>Mlie.Flags</packageId>
-	<author>cuproPanda</author>
-	<url>https://github.com/emipa606/Flags</url>
-	<supportedVersions>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of cuproPandas mod for RimWorld 1.1
+  <name>Flags (Continued)</name>
+  <packageId>Mlie.Flags</packageId>
+  <author>cuproPanda</author>
+  <url>https://github.com/emipa606/Flags</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of cuproPandas mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1209858559
 
 [img]https://i.imgur.com/GYswkZ7.png[/img]
