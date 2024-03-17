@@ -94,9 +94,9 @@ public class Building_Flag : Building
     }
 
 
-    public override void Draw()
+    protected override void DrawAt(Vector3 drawLoc, bool flip = false)
     {
-        base.Draw();
+        base.DrawAt(drawLoc, flip);
         if (currFrame == null)
         {
             return;
@@ -105,7 +105,7 @@ public class Building_Flag : Building
         var matrix = default(Matrix4x4);
         var s = new Vector3(def.graphicData.drawSize.x, 9f, def.graphicData.drawSize.y);
         var x = new Vector3(0f, 0f, 0f);
-        matrix.SetTRS(DrawPos + x + Altitudes.AltIncVect, Rotation.AsQuat, s);
+        matrix.SetTRS(drawLoc + x + Altitudes.AltIncVect, Rotation.AsQuat, s);
         Graphics.DrawMesh(MeshPool.plane10, matrix,
             currFrame.GetColoredVersion(def.graphicData.shaderType.Shader, Color, Color.white).MatSingle, 0);
     }
