@@ -7,7 +7,7 @@ namespace CuproFlags;
 [StaticConstructorOnStartup]
 public class Building_Flag : Building
 {
-    public static readonly Graphic Pole = GraphicDatabase.Get<Graphic_Single>("Cupro/Object/Utility/Flags/Pole",
+    private static readonly Graphic pole = GraphicDatabase.Get<Graphic_Single>("Cupro/Object/Utility/Flags/Pole",
         ShaderDatabase.CutoutComplex, new Vector2(3, 3), Color.white, Color.white);
 
     private Graphic[] animFrames;
@@ -19,7 +19,7 @@ public class Building_Flag : Building
     private string wd;
     private WindManager windMan;
 
-    public override Graphic Graphic => updated ? Pole : base.Graphic;
+    public override Graphic Graphic => updated ? pole : base.Graphic;
 
     private Color Color => Stuff != null ? Stuff.stuffProps.color : def.graphicData.color;
 
@@ -29,11 +29,11 @@ public class Building_Flag : Building
         base.SpawnSetup(map, respawningAfterLoad);
         wd = Path.GetDirectoryName(def.graphicData.texPath)?.Replace("\\", "/");
         windMan = Map.windManager;
-        LongEventHandler.ExecuteWhenFinished(GetGraphicArray);
+        LongEventHandler.ExecuteWhenFinished(getGraphicArray);
     }
 
 
-    public void GetGraphicArray()
+    private void getGraphicArray()
     {
         cutout = def.graphicData.shaderType.Shader == ShaderDatabase.CutoutComplex;
         animFrames = new Graphic[5];
@@ -59,7 +59,7 @@ public class Building_Flag : Building
     }
 
 
-    public override void Tick()
+    protected override void Tick()
     {
         base.Tick();
 

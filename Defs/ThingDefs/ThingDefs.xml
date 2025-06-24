@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef Name="FLG_FlagBase" ParentName="BuildingBase" Abstract="True">
     <thingClass>CuproFlags.Building_Flag</thingClass>
@@ -11,6 +11,7 @@
     <size>(1,1)</size>
     <altitudeLayer>PawnUnused</altitudeLayer>
     <socialPropernessMatters>true</socialPropernessMatters>
+    <uiIconScale>0.7</uiIconScale>
     <statBases>
       <MaxHitPoints>75</MaxHitPoints>
       <WorkToBuild>500</WorkToBuild>

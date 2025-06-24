@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: black flag -->
+  <FLG_Flag_Black.label>black flag</FLG_Flag_Black.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Black.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Black.description>
+  <!-- EN: blue flag -->
+  <FLG_Flag_Blue.label>blue flag</FLG_Flag_Blue.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Blue.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Blue.description>
+  <!-- EN: brown flag -->
+  <FLG_Flag_Brown.label>brown flag</FLG_Flag_Brown.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Brown.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Brown.description>
+  <!-- EN: chartreuse flag -->
+  <FLG_Flag_Chartreuse.label>chartreuse flag</FLG_Flag_Chartreuse.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Chartreuse.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Chartreuse.description>
+  <!-- EN: colony flag -->
+  <FLG_Flag_Colony.label>colony flag</FLG_Flag_Colony.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Colony.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Colony.description>
+  <!-- EN: cyan flag -->
+  <FLG_Flag_Cyan.label>cyan flag</FLG_Flag_Cyan.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Cyan.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Cyan.description>
+  <!-- EN: green flag -->
+  <FLG_Flag_Green.label>green flag</FLG_Flag_Green.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Green.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Green.description>
+  <!-- EN: lotus flag -->
+  <FLG_Flag_Lotus.label>lotus flag</FLG_Flag_Lotus.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Lotus.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Lotus.description>
+  <!-- EN: love flag -->
+  <FLG_Flag_Love.label>love flag</FLG_Flag_Love.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Love.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Love.description>
+  <!-- EN: magenta flag -->
+  <FLG_Flag_Magenta.label>magenta flag</FLG_Flag_Magenta.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Magenta.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Magenta.description>
+  <!-- EN: orange flag -->
+  <FLG_Flag_Orange.label>orange flag</FLG_Flag_Orange.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Orange.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Orange.description>
+  <!-- EN: pink flag -->
+  <FLG_Flag_Pink.label>pink flag</FLG_Flag_Pink.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Pink.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Pink.description>
+  <!-- EN: pirate flag -->
+  <FLG_Flag_Pirate.label>pirate flag</FLG_Flag_Pirate.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Pirate.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Pirate.description>
+  <!-- EN: rainbow flag -->
+  <FLG_Flag_Rainbow.label>rainbow flag</FLG_Flag_Rainbow.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Rainbow.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Rainbow.description>
+  <!-- EN: red flag -->
+  <FLG_Flag_Red.label>red flag</FLG_Flag_Red.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Red.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Red.description>
+  <!-- EN: RimWorld flag -->
+  <FLG_Flag_RimWorld.label>RimWorld flag</FLG_Flag_RimWorld.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_RimWorld.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_RimWorld.description>
+  <!-- EN: sol flag -->
+  <FLG_Flag_Sol.label>sol flag</FLG_Flag_Sol.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Sol.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Sol.description>
+  <!-- EN: tribe flag -->
+  <FLG_Flag_Tribe.label>tribe flag</FLG_Flag_Tribe.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Tribe.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Tribe.description>
+  <!-- EN: undyed flag -->
+  <FLG_Flag_Undyed.label>undyed flag</FLG_Flag_Undyed.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Undyed.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Undyed.description>
+  <!-- EN: violet flag -->
+  <FLG_Flag_Violet.label>violet flag</FLG_Flag_Violet.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Violet.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Violet.description>
+  <!-- EN: white flag -->
+  <FLG_Flag_White.label>white flag</FLG_Flag_White.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_White.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_White.description>
+  <!-- EN: yellow flag -->
+  <FLG_Flag_Yellow.label>yellow flag</FLG_Flag_Yellow.label>
+  <!-- EN: A decorative flag for marking areas or displaying heraldry. -->
+  <FLG_Flag_Yellow.description>A decorative flag for marking areas or displaying heraldry.</FLG_Flag_Yellow.description>
+</LanguageData>

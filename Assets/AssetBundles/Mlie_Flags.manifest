@@ -1,0 +1,100 @@
+ManifestFileVersion: 0
+CRC: 3813276779
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24cc39f23e91d8f208a2d8c957953400
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 24cc39f23e91d8f208a2d8c957953400
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Sol/Anim2_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Lotus/Anim3.PNG
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Lotus/Anim1_m.PNG
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Sol/Anim2.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/White/Anim2.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Colony/Anim3_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Colony/Anim3.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Love/Anim0_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Love/Anim3.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Sol/Anim3_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Love/Anim2.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Sol/Anim0.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Love/Anim3_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Rainbow/Anim4.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/RimWorld/MenuIcon.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Pirate/Anim2.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Colony/MenuIcon.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Lotus/Anim4_m.PNG
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/RimWorld/Anim1.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Tribe/MenuIcon.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Pirate/Anim3.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Sol/MenuIcon.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/RimWorld/Anim3_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Colony/Anim0_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Pirate/MenuIcon.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Pirate/Anim0.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Colony/Anim2_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/RimWorld/Anim0.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Colony/Anim4.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Sol/Anim0_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/White/Anim4.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/White/MenuIcon.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Sol/Anim4.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Pirate/Anim4.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/RimWorld/Anim3.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Tribe/Anim3.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Colony/Anim1.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Rainbow/MenuIcon.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Colony/Anim0.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Sol/Anim1.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Rainbow/Anim0.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Lotus/Anim0_m.PNG
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Tribe/Anim0.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/White/Anim3.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Lotus/MenuIcon.PNG
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Colony/Anim2.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Lotus/Anim0.PNG
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/RimWorld/Anim4_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/RimWorld/Anim2.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Love/Anim1_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Colony/Anim4_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Lotus/Anim4.PNG
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Love/Anim1.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Rainbow/Anim3.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Pirate/Anim1.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Love/Anim2_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/RimWorld/Anim1_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Colony/Anim1_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Pole.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Sol/Anim1_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Sol/Anim4_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Tribe/Anim1.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Tribe/Anim2.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/RimWorld/Anim4.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Lotus/Anim3_m.PNG
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/White/Anim0.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Sol/Anim3.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Tribe/Anim4.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Love/Anim0.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Pole_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/RimWorld/Anim0_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Love/MenuIcon.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Rainbow/Anim1.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Lotus/Anim2_m.PNG
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Love/Anim4.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/RimWorld/Anim2_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Rainbow/Anim2.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Love/Anim4_m.png
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Lotus/Anim2.PNG
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/Lotus/Anim1.PNG
+- Assets/Data/Mlie.Flags/Textures/Cupro/Object/Utility/Flags/White/Anim1.png
+Dependencies: []
