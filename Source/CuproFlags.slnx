@@ -3,4 +3,20 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="CuproFlags/CuproFlags.csproj" />
+  <Folder Name="/.github/">
+    <File Path="../.github/copilot-instructions.md" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/Defs/DesignationCategoryDefs/">
+    <File Path="../Defs/DesignationCategoryDefs/DesignationCategories.xml" />
+  </Folder>
+  <Folder Name="/XML/Defs/AI/">
+    <File Path="../Defs/AI/Jobs_Joy.xml" />
+    <File Path="../Defs/AI/JoyGivers.xml" />
+  </Folder>
+  <Folder Name="/XML/Defs/ThingDefs/">
+    <File Path="../Defs/ThingDefs/ThingDefs.xml" />
+  </Folder>
 </Solution>
